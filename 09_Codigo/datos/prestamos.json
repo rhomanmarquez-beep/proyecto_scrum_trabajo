@@ -1,0 +1,32 @@
+[
+    {
+        "id_prestamo": "PR-001",
+        "documento_estudiante": "1065237252",
+        "nombre_estudiante": "Rhoman Marquez",
+        "codigo_equipo": "001",
+        "tipo_equipo": "Tablet",
+        "fecha_prestamo": "2026-09-15 17:55:39",
+        "fecha_devolucion": "2026-09-15 17:55:51",
+        "estado": "Finalizado"
+    },
+    {
+        "id_prestamo": "PR-002",
+        "documento_estudiante": "1065237544",
+        "nombre_estudiante": "Alex Garcia",
+        "codigo_equipo": "EQ-001",
+        "tipo_equipo": "Laptop",
+        "fecha_prestamo": "2026-09-15 18:08:58",
+        "fecha_devolucion": "2026-09-15 18:09:46",
+        "estado": "Finalizado"
+    },
+    {
+        "id_prestamo": "PR-003",
+        "documento_estudiante": "1065237252",
+        "nombre_estudiante": "Rhoman Marquez",
+        "codigo_equipo": "EQ-002",
+        "tipo_equipo": "Tablet",
+        "fecha_prestamo": "2026-09-15 18:56:18",
+        "fecha_devolucion": "2026-09-15 18:56:37",
+        "estado": "Finalizado"
+    }
+]

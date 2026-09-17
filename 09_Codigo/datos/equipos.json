@@ -1,0 +1,16 @@
+[
+    {
+        "codigo": "EQ-001",
+        "tipo": "Laptop",
+        "marca": "dell",
+        "modelo": "latituded",
+        "estado": "Disponible"
+    },
+    {
+        "codigo": "EQ-002",
+        "tipo": "Tablet",
+        "marca": "dell",
+        "modelo": "23",
+        "estado": "Disponible"
+    }
+]
